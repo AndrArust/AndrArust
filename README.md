@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 I’m working also on WEB3 projects, making dreams real  
-👯 I’m looking to collaborate on on any kind project  
+👯 I’m looking to collaborate on any kind project  
 💬 Ask me about Solidity, Web3, React, Angular, Nest, Express, .NET, ASP<span>.</span>NET
 📫 How to reach me: arustamyan2011@gmail.com
 ⚡ Fun fact I can be dungeon master of your project
